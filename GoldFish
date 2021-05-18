@@ -1,0 +1,25 @@
+ "name": "GoldFish", #List name
+   "logoURI": "https://www.goldfishtoken.com/gallery/Untitled-ts1621325125.png", #List logo uri
+   "timestamp": 1610339529000, #Update time in millisecond
+   "tokens": [{
+           "chainId": 1003988, #ChainId, which is currently 1
+           "address": "TUSQbq25wVRg4ZYQJm6WLGwim4qpQjv7Eb", #Token address
+           "name": "GoldFish", #Token name
+           "symbol": "GF", #Token symbol
+           "decimals": 6, #Token decimals
+           "logoURI": "https://www.goldfishtoken.com/gallery/Untitled-ts1621325125.png" #Token logo uri
+       },
+       {
+           "chainId": 1003988,
+           "address": "TUSQbq25wVRg4ZYQJm6WLGwim4qpQjv7Eb",
+           "name": "GF",
+           "symbol": "GF",
+           "decimals": 6,
+           "logoURI": "https://www.goldfishtoken.com/gallery/Untitled-ts1621325125.png"
+       }
+   ],
+   "version": { #Version info
+       "major": 1, #Major version
+       "minor": 0, #Minor version
+       "patch": 0  #Patch version
+   }
