@@ -1,5 +1,5 @@
  "name": "GoldFish", #List name
-   "logoURI": "https://www.goldfishtoken.com/gallery/Untitled-ts1621325125.png", #List logo uri
+   "logoURI": "https://coin.top/production/upload/logo/1003988.png?t=1622801122393", #List logo uri
    "timestamp": 1610339529000, #Update time in millisecond
    "tokens": [{
            "chainId": 1003988, #ChainId, which is currently 1
@@ -7,7 +7,7 @@
            "name": "GoldFish", #Token name
            "symbol": "GF", #Token symbol
            "decimals": 6, #Token decimals
-           "logoURI": "https://www.goldfishtoken.com/gallery/Untitled-ts1621325125.png" #Token logo uri
+           "logoURI": "https://coin.top/production/upload/logo/1003988.png?t=1622801122393" #Token logo uri
        },
        {
            "chainId": 1003988,
@@ -15,7 +15,7 @@
            "name": "GF",
            "symbol": "GF",
            "decimals": 6,
-           "logoURI": "https://www.goldfishtoken.com/gallery/Untitled-ts1621325125.png"
+           "logoURI": "https://coin.top/production/upload/logo/1003988.png?t=1622801122393"
        }
    ],
    "version": { #Version info
